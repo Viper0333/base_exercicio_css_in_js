@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "titulo": "Desenvolvedor Front-end",
+        "localizacao": "São Paulo",
+        "nivel": "Júnior",
+        "modalidade": "CLT",
+        "salarioMin": 3000,
+        "salarioMax": 4500,
+        "requisitos": ["HTML", "CSS", "JavaScript", "React"]
+    },
+    {
+        "id": 2,
+        "titulo": "UX/UI Designer",
+        "localizacao": "Remoto",
+        "nivel": "Pleno",
+        "modalidade": "PJ",
+        "salarioMin": 5000,
+        "salarioMax": 7000,
+        "requisitos": ["Figma", "Design System", "Prototipagem"]
+    }
+]
